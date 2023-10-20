@@ -5,20 +5,20 @@ const PLAYERS = [
     "Popcorn",
     "Gemwoman",
     "Bolt",
-    "Antwoman",
+    "ironwoman",
     "Mask",
     "Tiger",
     "Captain",
     "Catwoman",
     "Fish",
     "Hulk",
-    "Ninja",
-    "Black Cat",
-    "Volverine",
-    "Thor",
-    "Slayer",
-    "Vader",
-    "Slingo"
+    "Deadpool",
+    "BlackPanther,
+    "Strange",
+    "Starlord",
+    "Gamora",
+    "Wasp",
+    "Thanos"
 ];
 
 // initialize players with image and strength
