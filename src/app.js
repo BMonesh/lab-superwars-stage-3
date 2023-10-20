@@ -14,7 +14,7 @@ const PLAYERS = [
     "Hulk",
     "Deadpool",
     "BlackPanther,
-    "Strange",
+    "DrStrange",
     "Starlord",
     "Gamora",
     "Wasp",
